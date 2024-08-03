@@ -17,7 +17,16 @@
 ### To conduct a comprehensive analysis of Blinkit's Sales Performance. Identify key insights and opportunities for optimization using various KPIs and visualization in Power BI.
 
 ## KPI's Requirements
-1.Total Sales
-2. Average Sales
-3.Number OF items
-4.Average Rating
+ - Total Sales
+ - Average Sales
+ - Number OF items
+ - Average Rating
+
+## Chart Requirement
+ - Total Sales by Fat Content
+ - Total Sales by Items Type
+ - Fat content by outlet for total sales
+ - Total sales by outlet Establishment
+ - Sales by outlet size
+ - Sales by outlet location
+ - All metrics by outlet type
